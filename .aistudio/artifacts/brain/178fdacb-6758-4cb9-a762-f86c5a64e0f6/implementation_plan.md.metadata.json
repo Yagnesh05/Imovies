@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for integrating OMDb API (key: 365d650f) to auto-fetch real movie posters and metadata for catalog movies, enable live OMDb search and 1-click import in both the global search bar and Add Movie Studio, and persistently cache posters with dynamic SVG fallback.",
+  "updatedAt":  "2026-10-28T17:57:51.327590515Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

@@ -1,0 +1,6 @@
+{
+  "name": "iMovies",
+  "description": "iMovies — Watch, Book & Download. A seamless online cinema platform to browse movies, book tickets, select showtimes, reserve seats with real-time tracking, and stream or download movies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
